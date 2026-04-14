@@ -190,7 +190,7 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 streamlit run app.py
 ```
 
-The app will open at `http://localhost:8501` 🎉
+The app will open at `http://localhost:8501` 
 
 ---
 
