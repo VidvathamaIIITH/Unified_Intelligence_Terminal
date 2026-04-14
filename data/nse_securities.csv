@@ -1,0 +1,168 @@
+Symbol,Company Name,Series,ISIN,Industry
+RELIANCE,Reliance Industries Limited,EQ,INE002A01018,Oil & Gas
+TCS,Tata Consultancy Services Limited,EQ,INE467B01029,IT Services
+HDFCBANK,HDFC Bank Limited,EQ,INE040A01034,Banking
+INFY,Infosys Limited,EQ,INE009A01021,IT Services
+ICICIBANK,ICICI Bank Limited,EQ,INE090A01021,Banking
+HINDUNILVR,Hindustan Unilever Limited,EQ,INE030A01027,FMCG
+SBIN,State Bank of India,EQ,INE062A01020,Banking
+BHARTIARTL,Bharti Airtel Limited,EQ,INE397D01024,Telecom
+KOTAKBANK,Kotak Mahindra Bank Limited,EQ,INE237A01028,Banking
+ITC,ITC Limited,EQ,INE154A01025,FMCG
+LT,Larsen & Toubro Limited,EQ,INE018A01030,Infrastructure
+AXISBANK,Axis Bank Limited,EQ,INE238A01034,Banking
+BAJFINANCE,Bajaj Finance Limited,EQ,INE296A01024,Finance
+ASIANPAINT,Asian Paints Limited,EQ,INE021A01026,Paints
+MARUTI,Maruti Suzuki India Limited,EQ,INE585B01010,Automobile
+HCLTECH,HCL Technologies Limited,EQ,INE860A01027,IT Services
+TITAN,Titan Company Limited,EQ,INE280A01028,Consumer Goods
+SUNPHARMA,Sun Pharmaceutical Industries Limited,EQ,INE044A01036,Pharma
+WIPRO,Wipro Limited,EQ,INE075A01022,IT Services
+ULTRACEMCO,UltraTech Cement Limited,EQ,INE481G01011,Cement
+NESTLEIND,Nestle India Limited,EQ,INE239A01016,FMCG
+TATAMOTORS,Tata Motors Limited,EQ,INE155A01022,Automobile
+NTPC,NTPC Limited,EQ,INE733E01010,Power
+POWERGRID,Power Grid Corporation of India Limited,EQ,INE752E01010,Power
+ONGC,Oil and Natural Gas Corporation Limited,EQ,INE213A01029,Oil & Gas
+M&M,Mahindra & Mahindra Limited,EQ,INE101A01026,Automobile
+TATASTEEL,Tata Steel Limited,EQ,INE081A01020,Steel
+JSWSTEEL,JSW Steel Limited,EQ,INE019A01038,Steel
+TECHM,Tech Mahindra Limited,EQ,INE669C01036,IT Services
+ADANIENT,Adani Enterprises Limited,EQ,INE423A01024,Conglomerate
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,EQ,INE742F01042,Infrastructure
+BAJAJ-AUTO,Bajaj Auto Limited,EQ,INE917I01010,Automobile
+BAJAJFINSV,Bajaj Finserv Limited,EQ,INE918I01018,Finance
+BPCL,Bharat Petroleum Corporation Limited,EQ,INE029A01011,Oil & Gas
+BRITANNIA,Britannia Industries Limited,EQ,INE216A01030,FMCG
+CIPLA,Cipla Limited,EQ,INE059A01026,Pharma
+COALINDIA,Coal India Limited,EQ,INE522F01014,Mining
+DIVISLAB,Divi's Laboratories Limited,EQ,INE361B01024,Pharma
+DRREDDY,Dr. Reddy's Laboratories Limited,EQ,INE089A01023,Pharma
+EICHERMOT,Eicher Motors Limited,EQ,INE066A01021,Automobile
+GRASIM,Grasim Industries Limited,EQ,INE047A01021,Cement
+HDFCLIFE,HDFC Life Insurance Company Limited,EQ,INE795G01014,Insurance
+HEROMOTOCO,Hero MotoCorp Limited,EQ,INE158A01026,Automobile
+HINDALCO,Hindalco Industries Limited,EQ,INE038A01020,Metals
+INDUSINDBK,IndusInd Bank Limited,EQ,INE095A01012,Banking
+SBILIFE,SBI Life Insurance Company Limited,EQ,INE123W01016,Insurance
+SHREECEM,Shree Cement Limited,EQ,INE070A01015,Cement
+TATACONSUM,Tata Consumer Products Limited,EQ,INE192A01025,FMCG
+UPL,UPL Limited,EQ,INE628A01036,Agrochemicals
+VEDL,Vedanta Limited,EQ,INE205A01025,Mining
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,EQ,INE437A01024,Healthcare
+DABUR,Dabur India Limited,EQ,INE016A01026,FMCG
+GODREJCP,Godrej Consumer Products Limited,EQ,INE102D01028,FMCG
+HAVELLS,Havells India Limited,EQ,INE176B01034,Electricals
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,EQ,INE726G01019,Insurance
+INDIGO,InterGlobe Aviation Limited,EQ,INE646L01027,Aviation
+LICI,Life Insurance Corporation of India,EQ,INE0J1Y01017,Insurance
+LTIM,LTIMindtree Limited,EQ,INE214T01019,IT Services
+MARICO,Marico Limited,EQ,INE196A01026,FMCG
+PIDILITIND,Pidilite Industries Limited,EQ,INE318A01026,Chemicals
+SIEMENS,Siemens Limited,EQ,INE003A01024,Engineering
+SRF,SRF Limited,EQ,INE647A01010,Chemicals
+TORNTPHARM,Torrent Pharmaceuticals Limited,EQ,INE685A01028,Pharma
+TRENT,Trent Limited,EQ,INE849A01020,Retail
+ADANIGREEN,Adani Green Energy Limited,EQ,INE364U01010,Renewable Energy
+ADANIPOWER,Adani Power Limited,EQ,INE814H01011,Power
+AMBUJACEM,Ambuja Cements Limited,EQ,INE079A01024,Cement
+AUROPHARMA,Aurobindo Pharma Limited,EQ,INE406A01037,Pharma
+BANKBARODA,Bank of Baroda,EQ,INE028A01039,Banking
+BEL,Bharat Electronics Limited,EQ,INE263A01024,Defence
+BERGEPAINT,Berger Paints India Limited,EQ,INE463A01038,Paints
+BIOCON,Biocon Limited,EQ,INE376G01013,Pharma
+CANBK,Canara Bank,EQ,INE476A01014,Banking
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,EQ,INE121A01024,Finance
+COLPAL,Colgate-Palmolive India Limited,EQ,INE259A01022,FMCG
+CONCOR,Container Corporation of India Limited,EQ,INE111A01025,Logistics
+CUMMINSIND,Cummins India Limited,EQ,INE298A01020,Engineering
+DLF,DLF Limited,EQ,INE271C01023,Real Estate
+ESCORTS,Escorts Kubota Limited,EQ,INE042A01014,Automobile
+FEDERALBNK,The Federal Bank Limited,EQ,INE171A01029,Banking
+GAIL,GAIL India Limited,EQ,INE129A01019,Oil & Gas
+GMRINFRA,GMR Airports Infrastructure Limited,EQ,INE776C01039,Infrastructure
+HAL,Hindustan Aeronautics Limited,EQ,INE066F01020,Defence
+IDFCFIRSTB,IDFC First Bank Limited,EQ,INE092T01019,Banking
+IGL,Indraprastha Gas Limited,EQ,INE203G01027,Gas
+IOC,Indian Oil Corporation Limited,EQ,INE242A01010,Oil & Gas
+IRCTC,Indian Railway Catering and Tourism Corporation Limited,EQ,INE335Y01020,Railways
+IRFC,Indian Railway Finance Corporation Limited,EQ,INE053F01010,Finance
+JINDALSTEL,Jindal Steel & Power Limited,EQ,INE749A01030,Steel
+JUBLFOOD,Jubilant FoodWorks Limited,EQ,INE797F01012,Food Services
+LICHSGFIN,LIC Housing Finance Limited,EQ,INE115A01026,Finance
+LUPIN,Lupin Limited,EQ,INE326A01037,Pharma
+MFSL,Max Financial Services Limited,EQ,INE180A01020,Finance
+MOTHERSON,Samvardhana Motherson International Limited,EQ,INE775A01035,Auto Ancillary
+MUTHOOTFIN,Muthoot Finance Limited,EQ,INE414G01012,Finance
+NAUKRI,Info Edge India Limited,EQ,INE663F01024,Internet
+NMDC,NMDC Limited,EQ,INE584A01023,Mining
+OBEROIRLTY,Oberoi Realty Limited,EQ,INE093I01010,Real Estate
+OFSS,Oracle Financial Services Software Limited,EQ,INE881D01027,IT Services
+PAGEIND,Page Industries Limited,EQ,INE761H01022,Textiles
+PEL,Piramal Enterprises Limited,EQ,INE140A01024,Finance
+PERSISTENT,Persistent Systems Limited,EQ,INE262H01013,IT Services
+PETRONET,Petronet LNG Limited,EQ,INE347G01014,Oil & Gas
+PFC,Power Finance Corporation Limited,EQ,INE134E01011,Finance
+PIIND,PI Industries Limited,EQ,INE603J01030,Agrochemicals
+PNB,Punjab National Bank,EQ,INE160A01022,Banking
+POLYCAB,Polycab India Limited,EQ,INE455K01017,Electricals
+RECLTD,REC Limited,EQ,INE020B01018,Finance
+SAIL,Steel Authority of India Limited,EQ,INE114A01011,Steel
+SBICARD,SBI Cards and Payment Services Limited,EQ,INE018E01016,Finance
+TATACOMM,Tata Communications Limited,EQ,INE151A01013,Telecom
+TATAELXSI,Tata Elxsi Limited,EQ,INE670A01012,IT Services
+TATAPOWER,Tata Power Company Limited,EQ,INE245A01021,Power
+TIINDIA,Tube Investments of India Limited,EQ,INE974X01010,Engineering
+TORNTPOWER,Torrent Power Limited,EQ,INE813H01021,Power
+TVSMOTOR,TVS Motor Company Limited,EQ,INE494B01023,Automobile
+UNIONBANK,Union Bank of India,EQ,INE692A01016,Banking
+UNITDSPR,United Spirits Limited,EQ,INE854D01024,Beverages
+VOLTAS,Voltas Limited,EQ,INE226A01021,Consumer Durables
+ZOMATO,Zomato Limited,EQ,INE758T01015,Internet
+ZYDUSLIFE,Zydus Lifesciences Limited,EQ,INE010B01027,Pharma
+ATGL,Adani Total Gas Limited,EQ,INE399L01023,Gas
+AWL,Adani Wilmar Limited,EQ,INE699H01024,FMCG
+DELHIVERY,Delhivery Limited,EQ,INE148O01028,Logistics
+MAXHEALTH,Max Healthcare Institute Limited,EQ,INE027H01010,Healthcare
+NYKAA,FSN E-Commerce Ventures Limited,EQ,INE388Y01029,E-Commerce
+PAYTM,One 97 Communications Limited,EQ,INE982J01020,Fintech
+POLICYBZR,PB Fintech Limited,EQ,INE417T01026,Insurance
+STARHEALTH,Star Health and Allied Insurance Company Limited,EQ,INE718B01016,Insurance
+MPHASIS,Mphasis Limited,EQ,INE356A01018,IT Services
+COFORGE,Coforge Limited,EQ,INE591G01017,IT Services
+AAPL,Apple Inc,EQ,NA,Technology
+MSFT,Microsoft Corporation,EQ,NA,Technology
+GOOGL,Alphabet Inc,EQ,NA,Technology
+AMZN,Amazon.com Inc,EQ,NA,Technology
+META,Meta Platforms Inc,EQ,NA,Technology
+TSLA,Tesla Inc,EQ,NA,Automobile
+NVDA,NVIDIA Corporation,EQ,NA,Semiconductor
+BHARATFORG,Bharat Forge Limited,EQ,INE465A01025,Auto Ancillary
+CROMPTON,Crompton Greaves Consumer Electricals Limited,EQ,INE299U01018,Consumer Durables
+DEEPAKNTR,Deepak Nitrite Limited,EQ,INE288B01029,Chemicals
+DIXON,Dixon Technologies India Limited,EQ,INE935N01020,Electronics
+GLAND,Gland Pharma Limited,EQ,INE068V01023,Pharma
+IPCALAB,IPCA Laboratories Limited,EQ,INE571A01020,Pharma
+KALYANKJIL,Kalyan Jewellers India Limited,EQ,INE303R01014,Jewellery
+LAURUSLABS,Laurus Labs Limited,EQ,INE947Q01028,Pharma
+LTTS,L&T Technology Services Limited,EQ,INE010V01017,IT Services
+MANAPPURAM,Manappuram Finance Limited,EQ,INE522D01027,Finance
+MCX,Multi Commodity Exchange of India Limited,EQ,INE745G01035,Exchange
+METROPOLIS,Metropolis Healthcare Limited,EQ,INE112L01020,Healthcare
+MRF,MRF Limited,EQ,INE883A01011,Tyres
+NATIONALUM,National Aluminium Company Limited,EQ,INE139A01034,Metals
+NAVINFLUOR,Navin Fluorine International Limited,EQ,INE048G01018,Chemicals
+PHOENIXLTD,The Phoenix Mills Limited,EQ,INE211B01039,Real Estate
+RATNAMANI,Ratnamani Metals & Tubes Limited,EQ,INE703B01027,Steel
+RELAXO,Relaxo Footwears Limited,EQ,INE131B01039,Footwear
+SONACOMS,Sona BLW Precision Forgings Limited,EQ,INE073K01018,Auto Ancillary
+SUNTV,Sun TV Network Limited,EQ,INE424H01027,Media
+SUPREMEIND,Supreme Industries Limited,EQ,INE195A01028,Plastics
+SYNGENE,Syngene International Limited,EQ,INE398R01022,Pharma
+TATACHEM,Tata Chemicals Limited,EQ,INE092A01019,Chemicals
+TRIDENT,Trident Limited,EQ,INE064C01022,Textiles
+WHIRLPOOL,Whirlpool of India Limited,EQ,INE716A01013,Consumer Durables
+YESBANK,Yes Bank Limited,EQ,INE528G01035,Banking
+BANKNIFTY,Nifty Bank Index,IX,NA,Index
+NIFTY,Nifty 50 Index,IX,NA,Index
+SENSEX,BSE Sensex Index,IX,NA,Index
