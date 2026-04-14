@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 T9 — The Unified Intelligence Terminal
+#  T9 — The Unified Intelligence Terminal
 
 **Bridging the gap between news, technology, and markets with AI-powered cross-domain analysis**
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [The Problem](#the-problem)
 - [The Solution](#the-solution)
@@ -35,19 +35,19 @@
 
 ---
 
-## ❓ The Problem
+## The Problem
 
 In an era of information fragmentation, professionals and investors struggle to synthesize insights across domains. News, technology shifts, and market movements are deeply interconnected — yet they are consumed in silos:
 
-- 📰 A political decision in Delhi can tank pharma stocks the same afternoon
-- 💻 A semiconductor shortage announced in Taiwan impacts auto manufacturers on the NSE
-- 📈 Startup funding data from TechCrunch connects to venture capital sentiment in India
+-  A political decision in Delhi can tank pharma stocks the same afternoon
+-  A semiconductor shortage announced in Taiwan impacts auto manufacturers on the NSE
+-  Startup funding data from TechCrunch connects to venture capital sentiment in India
 
 **No single platform connects these dots in real-time.** Existing tools either cover one domain deeply or sacrifice depth for breadth. The result: missed connections, delayed reactions, and information overload.
 
 ---
 
-## 💡 The Solution
+##  The Solution
 
 **T9 — The Unified Intelligence Terminal** automates the entire insight pipeline:
 
@@ -61,7 +61,7 @@ The result is a single dashboard where a professional can see, in under 30 secon
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -98,15 +98,15 @@ The result is a single dashboard where a professional can see, in under 30 secon
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Phase A — Independent Terminals
 
 | Terminal | Description |
 |----------|-------------|
-| **📰 T9-News** | Indian news from The Hindu, NDTV, Indian Express — classified into 11 categories (Politics, Sports, Business, etc.) using BART zero-shot |
-| **💻 T9-Tech** | Global tech news from TechCrunch, The Verge, YourStory — filtered by topics (AI, Funding, Semiconductors, Startups) |
-| **📈 T9-Stocks** | Finance news tagged with NSE ticker symbols via AI fuzzy matching against 170+ company master list |
+| ** T9-News** | Indian news from The Hindu, NDTV, Indian Express — classified into 11 categories (Politics, Sports, Business, etc.) using BART zero-shot |
+| ** T9-Tech** | Global tech news from TechCrunch, The Verge, YourStory — filtered by topics (AI, Funding, Semiconductors, Startups) |
+| ** T9-Stocks** | Finance news tagged with NSE ticker symbols via AI fuzzy matching against 170+ company master list |
 
 ### Phase B — The Brain (Command Center)
 
@@ -118,16 +118,16 @@ The result is a single dashboard where a professional can see, in under 30 secon
 
 ### Design
 
-- 🖤 **Bloomberg Terminal × Dark Luxury** aesthetic
-- 🔮 Glassmorphic cards with subtle glow effects
-- ⚡ Animated sentiment gauge with color-coded states
-- 🏷️ Color-coded category badges
-- 📊 Confidence bars for classification transparency
-- 🎯 Monospace data displays for financial precision
+-  **Bloomberg Terminal × Dark Luxury** aesthetic
+-  Glassmorphic cards with subtle glow effects
+-  Animated sentiment gauge with color-coded states
+-  Color-coded category badges
+-  Confidence bars for classification transparency
+-  Monospace data displays for financial precision
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology | Purpose |
 |-----------|-----------|---------|
@@ -141,7 +141,7 @@ The result is a single dashboard where a professional can see, in under 30 secon
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -212,15 +212,15 @@ The app will open at `http://localhost:8501` 🎉
 ### Without Gemini Key
 
 The app is **fully functional** without a Gemini key:
-- ✅ RSS ingestion works
-- ✅ BART classification works
-- ✅ NSE ticker matching works
-- ⚠️ AI summaries show "configure GEMINI_API_KEY" message
-- ⚠️ Cross-domain synthesis shows setup instructions
+-  RSS ingestion works
+-  BART classification works
+-  NSE ticker matching works
+-  AI summaries show "configure GEMINI_API_KEY" message
+-  Cross-domain synthesis shows setup instructions
 
 ---
 
-## ☁️ Deployment
+##  Deployment
 
 ### Streamlit Community Cloud
 
@@ -240,11 +240,11 @@ The app is **fully functional** without a Gemini key:
 3. Add `GEMINI_API_KEY` to Space Secrets
 4. The BART model will auto-download on first load
 
-> **⚠️ Memory Note:** The BART model requires ~2GB RAM. Streamlit Cloud free tier has 1GB limit. For production use, consider HuggingFace Spaces with a CPU+ or GPU instance.
+> ** Memory Note:** The BART model requires ~2GB RAM. Streamlit Cloud free tier has 1GB limit. For production use, consider HuggingFace Spaces with a CPU+ or GPU instance.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 t9-intelligence-terminal/
@@ -266,7 +266,7 @@ t9-intelligence-terminal/
 
 ---
 
-## 📡 Data Sources
+##  Data Sources
 
 ### Live RSS Feeds
 
@@ -290,7 +290,7 @@ t9-intelligence-terminal/
 
 ---
 
-## 🔬 How It Works
+##  How It Works
 
 ### 1. Zero-Shot Classification
 
@@ -316,7 +316,7 @@ The "Brain" sends the top 10 headlines from each domain to Gemini 1.5 Flash with
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
@@ -324,7 +324,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 <div align="center">
 
-**Built with 🧠 by T9 Intelligence Systems**
+**Built with  by T9 Intelligence Systems**
 
 *Transforming information noise into actionable intelligence*
 
